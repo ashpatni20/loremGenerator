@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    background-color: rgb(132, 132, 211);
+}
+
+input{
+    border: 1px solid black;
+}
+button{
+    background-color: rgb(28, 39, 100);
+    color: white;
+    padding: 2px;
+    margin: 10px;
+}
